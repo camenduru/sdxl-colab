@@ -25,3 +25,7 @@ https://stability.ai/blog/sdxl-09-stable-diffusion
 
 ## Paper
 https://arxiv.org/abs//2307.01952
+
+## Output
+
+![Screenshot 2023-07-06 181825](https://github.com/camenduru/sdxl-colab/assets/54370274/7f907263-4dcc-459d-b730-823aa58b1ad5)
