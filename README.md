@@ -18,8 +18,8 @@ Important: I am not publishing the `sd_xl_base_0.9.safetensors` model. Please ad
 
 
 ## Main Repo
-https://github.com/Stability-AI/generative-models
-https://github.com/comfyanonymous/ComfyUI
+https://github.com/Stability-AI/generative-models <br />
+https://github.com/comfyanonymous/ComfyUI <br />
 
 ## Page
 https://stability.ai/blog/sdxl-09-stable-diffusion
