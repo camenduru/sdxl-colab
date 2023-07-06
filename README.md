@@ -17,5 +17,3 @@ https://stability.ai/blog/sdxl-09-stable-diffusion
 
 ## Paper
 https://arxiv.org/abs//2307.01952
-
-## Output
