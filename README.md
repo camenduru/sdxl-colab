@@ -8,8 +8,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_comfyui_colab.ipynb) | sdxl_comfyui_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_refiner_comfyui_colab.ipynb) | sdxl_refiner_comfyui_colab please use with `refiner.json`
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_comfyui_colab.ipynb) | sdxl_comfyui_colab (1024x1024 model)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_refiner_comfyui_colab.ipynb) | sdxl_refiner_comfyui_colab (1024x1024 model) please use with `refiner.json`
 
 ## Tutorial
 
