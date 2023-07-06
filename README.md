@@ -31,3 +31,5 @@ https://arxiv.org/abs//2307.01952
 ## Output
 
 ![Screenshot 2023-07-06 181825](https://github.com/camenduru/sdxl-colab/assets/54370274/7f907263-4dcc-459d-b730-823aa58b1ad5)
+
+![Screenshot 2023-07-07 020217](https://github.com/camenduru/sdxl-colab/assets/54370274/05317f2c-fb45-4aac-9bb3-203c15944ba3)
