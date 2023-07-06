@@ -8,6 +8,14 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_comfyui_colab.ipynb)
+
+## Tutorial
+
+Important: I am not publishing the `sd_xl_base_0.9.safetensors` model. Please add your model link in `sdxl` and then run the cell.
+
+![image](https://github.com/camenduru/sdxl-colab/assets/54370274/8e42dc52-79b6-4074-bf62-b2d4d6213d36)
+
 
 ## Main Repo
 https://github.com/Stability-AI/generative-models
