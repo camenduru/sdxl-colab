@@ -12,7 +12,7 @@
 
 ## Tutorial
 
-Important: I am not publishing the `sd_xl_base_0.9.safetensors` model. Please add your model link in `sdxl` and then run the cell. (There is an amazing website called https://dagshub.com where you can store your models for free.)
+Important: I am not publishing the `sd_xl_base_0.9.safetensors` model. Please add your model link in `sdxl` and then run the cell. There is an amazing website called https://dagshub.com where you can store your models for free. 😜
 
 ![image](https://github.com/camenduru/sdxl-colab/assets/54370274/8e42dc52-79b6-4074-bf62-b2d4d6213d36)
 
