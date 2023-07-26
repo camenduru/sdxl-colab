@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_webui_colab.ipynb) | sdxl_v1.0_webui_colab (1024x1024 model) (🚦WIP🚦)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_webui_colab.ipynb) | sdxl_v1.0_webui_colab (1024x1024 model)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_comfyui_colab.ipynb) | sdxl_v1.0_comfyui_colab (1024x1024 model) (please use with refiner_v1.0.json)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_comfyui_colab.ipynb) | sdxl_comfyui_colab (1024x1024 model)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_refiner_comfyui_colab.ipynb) | sdxl_refiner_comfyui_colab (1024x1024 model) please use with `refiner.json`
