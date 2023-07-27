@@ -9,15 +9,10 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_webui_colab.ipynb) | sdxl_v1.0_webui_colab (1024x1024 model) `webui img2img = refiner`
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_webui_colab.ipynb) | sdxl_v0.9_webui_colab (1024x1024 model) `webui img2img = refiner`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_comfyui_colab.ipynb) | sdxl_v1.0_comfyui_colab (1024x1024 model) please use with `refiner_v1.0.json`
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_comfyui_colab.ipynb) | sdxl_comfyui_colab (1024x1024 model)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_refiner_comfyui_colab.ipynb) | sdxl_refiner_comfyui_colab (1024x1024 model) please use with `refiner.json`
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_comfyui_colab.ipynb) | sdxl_v0.9_comfyui_colab (1024x1024 model) please use with `refiner_v0.9.json`
 
-## Tutorial
-
-Important: I am not publishing the `sd_xl_base_0.9.safetensors` and `sd_xl_refiner_0.9.safetensors` models. Please add your model link in `sdxl` then run the cell. There is an amazing website called https://dagshub.com where you can store your models for free. 😜 I think the model will soon be everywhere 😋
-
-![image](https://github.com/camenduru/sdxl-colab/assets/54370274/8e42dc52-79b6-4074-bf62-b2d4d6213d36)
 
 ## Main Repo
 https://github.com/Stability-AI/generative-models <br />
