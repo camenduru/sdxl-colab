@@ -28,3 +28,7 @@ https://arxiv.org/abs//2307.01952
 
 sdxl_v0.9_comfyui_colab
 ![Screenshot 2023-07-07 020217](https://github.com/camenduru/sdxl-colab/assets/54370274/05317f2c-fb45-4aac-9bb3-203c15944ba3)
+
+sdxl_v1.0_webui_colab
+![F1_U90kXoAQ38Ny](https://github.com/camenduru/sdxl-colab/assets/54370274/73a9dafe-d782-4b1c-ae63-1f67580b9abd)
+
