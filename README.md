@@ -9,8 +9,8 @@
 | Colab | Info | Load
 | --- | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_controlnet_comfyui_colab.ipynb) | sdxl_v1.0_controlnet_comfyui_colab (1024x1024 model) | `controlnet_v1.0.json`
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_webui_colab.ipynb) | sdxl_v1.0_webui_colab (1024x1024 model) `webui img2img = refiner` |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_webui_colab.ipynb) | sdxl_v0.9_webui_colab (1024x1024 model) `webui img2img = refiner` |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_webui_colab.ipynb) | sdxl_v1.0_webui_colab (1024x1024 model) |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_webui_colab.ipynb) | sdxl_v0.9_webui_colab (1024x1024 model) |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_comfyui_colab.ipynb) | sdxl_v1.0_comfyui_colab (1024x1024 model) please use with | `refiner_v1.0.json`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_comfyui_colab.ipynb) | sdxl_v0.9_comfyui_colab (1024x1024 model) please use with | `refiner_v0.9.json`
 
