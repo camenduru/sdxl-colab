@@ -15,7 +15,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_comfyui_colab.ipynb) | sdxl_v0.9_comfyui_colab (1024x1024 model) please use with | `refiner_v0.9.json`
 
 
-## 🦒 SDXL Colab
+## 🦒 Fine-Tuned SDXL Colab
 
 | nightly | Info - Token - Model Page
 | --- | --- |
