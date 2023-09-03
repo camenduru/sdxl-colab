@@ -2,9 +2,9 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-## 🦒 Colab
-
 # 🚦 WIP 🚦
+
+## 🦒 Vanilla Colab
 
 | Colab | Info | Load
 | --- | --- | --- |
@@ -15,7 +15,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_comfyui_colab.ipynb) | sdxl_v0.9_comfyui_colab (1024x1024 model) please use with | `refiner_v0.9.json`
 
 
-## 🦒 Colab
+## 🦒 SDXL Colab
+
 | nightly | Info - Token - Model Page
 | --- | --- |
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/rundiffusion_xl_webui_colab.ipynb) | rundiffusion_xl_webui_colab <br /> [RunDiffusion/rundiffusion-xl](https://civitai.com/models/120964/rundiffusion-xl)
