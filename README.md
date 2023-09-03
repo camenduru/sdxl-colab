@@ -4,12 +4,6 @@
 
 # 🚦 WIP 🚦
 
-## 🦒 Drive Colab
-| nightly | Info - Token - Model Page
-| --- | --- |
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/drive/install.ipynb) | One Time Install & Update
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/drive/run.ipynb) | Run
-
 ## 🦒 Vanilla Colab
 
 | Colab | Info | Load
@@ -20,6 +14,12 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_comfyui_colab.ipynb) | sdxl_v1.0_comfyui_colab (1024x1024 model) please use with | `refiner_v1.0.json`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_comfyui_colab.ipynb) | sdxl_v0.9_comfyui_colab (1024x1024 model) please use with | `refiner_v0.9.json`
 
+## 🦒 Drive Colab
+
+| nightly | Info - Token - Model Page
+| --- | --- |
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/drive/install.ipynb) | One Time Install & Update
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/drive/run.ipynb) | Run
 
 ## 🦒 Fine-Tuned SDXL Colab
 
