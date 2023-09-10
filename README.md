@@ -2,6 +2,29 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
+## ⚠ The Stable Diffusion community is starting to report that Google Colab is aggressively banning accounts. 😭
+## ⚠ We are trying to understand what is happening because the [official statement](https://www.reddit.com/r/StableDiffusion/comments/12t8tc7/comment/jh2yhaz/?utm_source=share&utm_medium=web2x&context=3) was "No bans planned if you click through (will delete the VMs at some point)"
+## ⚠ Please do not use any type of Stable Diffusion UI, such as #StableDiffusionWebUI, #ComfyUI, #StableSwarmUI with Google Colab. 
+## ⚠ If your account is banned, please open an issue here: https://github.com/googlecolab/colabtools/issues
+
+![image](https://github.com/camenduru/stable-diffusion-webui-colab/assets/54370274/631c7cae-e72d-4ca0-b062-3ffdb573a651)
+
+## ⚠ Alternatives
+https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
+https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
+https://github.com/camenduru/stable-diffusion-webui-kaggle <br />
+https://github.com/camenduru/stable-diffusion-webui-runpod <br />
+https://github.com/camenduru/stable-diffusion-webui-vultr <br />
+https://github.com/camenduru/stable-diffusion-webui-docker <br />
+https://github.com/camenduru/stable-diffusion-webui-lambdalabs <br />
+https://github.com/camenduru/stable-diffusion-webui-saturncloud <br />
+https://github.com/camenduru/stable-diffusion-webui-modal <br />
+https://huggingface.co/spaces/camenduru-com/webui <br />
+https://huggingface.co/spaces/camenduru-com/webui-docker <br />
+https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
+
+<!--
+
 # 🚦 WIP 🚦
 
 ## 🦒 Vanilla Colab
@@ -54,3 +77,4 @@ sdxl_v0.9_comfyui_colab
 sdxl_v1.0_webui_colab
 ![F1_U90kXoAQ38Ny](https://github.com/camenduru/sdxl-colab/assets/54370274/73a9dafe-d782-4b1c-ae63-1f67580b9abd)
 
+-->
