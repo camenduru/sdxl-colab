@@ -8,30 +8,30 @@
 
 | Colab | Info | Load
 | --- | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_controlnet_comfyui_colab.ipynb) | sdxl_v1.0_controlnet_comfyui_colab (1024x1024 model) | `controlnet_v1.0.json`
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_webui_colab.ipynb) | sdxl_v1.0_webui_colab (1024x1024 model) |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_webui_colab.ipynb) | sdxl_v0.9_webui_colab (1024x1024 model) |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_comfyui_colab.ipynb) | sdxl_v1.0_comfyui_colab (1024x1024 model) please use with | `refiner_v1.0.json`
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_comfyui_colab.ipynb) | sdxl_v0.9_comfyui_colab (1024x1024 model) please use with | `refiner_v0.9.json`
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_controlnet_comfyui_colab_run.ipynb) | sdxl_v1.0_controlnet_comfyui_colab (1024x1024 model) | `controlnet_v1.0.json`
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_webui_colab_run.ipynb) | sdxl_v1.0_webui_colab (1024x1024 model) |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_webui_colab_run.ipynb) | sdxl_v0.9_webui_colab (1024x1024 model) |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v1.0_comfyui_colab_run.ipynb) | sdxl_v1.0_comfyui_colab (1024x1024 model) please use with | `refiner_v1.0.json`
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/sdxl_v0.9_comfyui_colab_run.ipynb) | sdxl_v0.9_comfyui_colab (1024x1024 model) please use with | `refiner_v0.9.json`
 
 ## 🦒 Drive Colab
 
 | nightly | Info - Token - Model Page
 | --- | --- |
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/drive/install.ipynb) | One Time Install & Update
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/drive/run.ipynb) | Run
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/drive/install_run.ipynb) | One Time Install & Update
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/drive/run_run.ipynb) | Run
 
 ## 🦒 Fine-Tuned SDXL Colab
 
 | nightly | Info - Token - Model Page
 | --- | --- |
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/animagine_xl_webui_colab.ipynb) | animagine_xl_webui_colab <br /> [Linaqruf/animagine-xl](https://civitai.com/models/122533/animagine-xl)
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/animechangeful_xl_webui_colab.ipynb) | animechangeful_xl_webui_colab <br /> [L_A_X/anime-changeful-xl](https://civitai.com/models/118545/anime-changeful-xl)
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/counterfeit_xl_webui_colab.ipynb) | counterfeit_xl_webui_colab <br /> [rqdwdw/counterfeitxl](https://civitai.com/models/118406/counterfeitxl)
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/crystalclear_xl_webui_colab.ipynb) | crystalclear_xl_webui_colab <br /> [WarAnakin/crystal-clear-xl](https://civitai.com/models/122822/crystal-clear-xl)
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/duchaitenaiart_xl_webui_colab.ipynb) | duchaitenaiart_xl_webui_colab <br /> [DucHaiten/duchaiten-aiart-sdxl](https://civitai.com/models/118756/duchaiten-aiart-sdxl)
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/juggernaut_xl_webui_colab.ipynb) | juggernaut_xl_webui_colab <br /> [KandooAI/juggernaut-xl](https://civitai.com/models/133005/juggernaut-xl)
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/rundiffusion_xl_webui_colab.ipynb) | rundiffusion_xl_webui_colab <br /> [RunDiffusion/rundiffusion-xl](https://civitai.com/models/120964/rundiffusion-xl)
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/animagine_xl_webui_colab_run.ipynb) | animagine_xl_webui_colab <br /> [Linaqruf/animagine-xl](https://civitai.com/models/122533/animagine-xl)
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/animechangeful_xl_webui_colab_run.ipynb) | animechangeful_xl_webui_colab <br /> [L_A_X/anime-changeful-xl](https://civitai.com/models/118545/anime-changeful-xl)
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/counterfeit_xl_webui_colab_run.ipynb) | counterfeit_xl_webui_colab <br /> [rqdwdw/counterfeitxl](https://civitai.com/models/118406/counterfeitxl)
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/crystalclear_xl_webui_colab_run.ipynb) | crystalclear_xl_webui_colab <br /> [WarAnakin/crystal-clear-xl](https://civitai.com/models/122822/crystal-clear-xl)
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/duchaitenaiart_xl_webui_colab_run.ipynb) | duchaitenaiart_xl_webui_colab <br /> [DucHaiten/duchaiten-aiart-sdxl](https://civitai.com/models/118756/duchaiten-aiart-sdxl)
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/juggernaut_xl_webui_colab_run.ipynb) | juggernaut_xl_webui_colab <br /> [KandooAI/juggernaut-xl](https://civitai.com/models/133005/juggernaut-xl)
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/sdxl-colab/blob/main/nightly/rundiffusion_xl_webui_colab_run.ipynb) | rundiffusion_xl_webui_colab <br /> [RunDiffusion/rundiffusion-xl](https://civitai.com/models/120964/rundiffusion-xl)
 
 ## Main Repo
 https://github.com/Stability-AI/generative-models <br />
